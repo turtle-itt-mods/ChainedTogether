@@ -1,3 +1,3 @@
 build:
-  ./zip ChainedTogether/ ChainedTogether.asmod
-  cp ChainedTogether.asmod ../
+  ./zip ChainedTogether/ ChainedTogether.hazemod
+  cp ChainedTogether.hazemod ../
